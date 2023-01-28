@@ -1,9 +1,10 @@
 # MINI_PROJECT
 # MOBILE SPEC FINDER:
-   To design a web page to find the specifications of the mobile.
-   A web page that is used to find the specifications of every newly launched mobiles.
+1. To design a web page to find the specifications of the mobile.
+2. A web page that is used to find the specifications of every newly launched mobiles.
 
-# Category: Website
+# Category: 
+   Website
 
 # SOFTWARE REQUIREMENTS:
    Software requirements are the required system and application software to perform this
